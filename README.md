@@ -118,3 +118,25 @@ Windows 10 (Non-POS Users – Level 1)
   Purpose within project:
     - Reduces risk of unauthorized physical access
     - Applies standard endpoint security practices
+
+
+
+    📊 Risk Prioritization 
+
+Domain Controllers
+  Risk Level: Critical
+  Priority: High
+
+POS Infrastructure
+  Risk Level: Critical
+  Priority: High
+
+Web Servers
+  Risk Level: High
+  Priority: High
+
+Endpoints
+  Risk Level: Medium
+  Priority: Medium
+
+
