@@ -121,7 +121,7 @@ Windows 10 (Non-POS Users – Level 1)
 
 
 
-    📊 Risk Prioritization 
+  📊 Risk Prioritization
 
 Domain Controllers
   Risk Level: Critical
