@@ -92,7 +92,9 @@ Microsoft IIS Web Servers (Level 1)
   Control: Disable Unused Features (Directory Browsing)
   
   Purpose within project:
+   
     - Reduces attack surface
+    
     - Prevents unintended data exposure
 
 
@@ -155,7 +157,9 @@ Windows 10 (Non-POS Users – Level 1)
     - Setting: 14+ characters
   
   Purpose within project:
+   
     - Strengthens authentication security
+    
     - Demonstrates implementation of baseline policies
 
   
