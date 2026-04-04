@@ -6,14 +6,23 @@ This project simulates a real-world post-acquisition security assessment, where 
 As part of this project, I assumed the role of a Cybersecurity Analyst responsible for evaluating and recommending system hardening controls prior to merging the two environments.
 
 🏢 Simulated Environment
+
 The acquired company environment includes:
+
   Windows Server 2019
+  
     - Active Directory Domain Controllers
+  
   Windows 10 Endpoints
+  
     - Mixed user roles (POS and non-POS users)
+  
   Oracle Linux POS Infrastructure
+  
     - 4 Linux servers running Oracle 11g databases
+  
   Microsoft IIS Web Servers
+  
     - Primarily internal (intranet-facing)
 
 
